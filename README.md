@@ -1,6 +1,6 @@
-# Awesome API Testing Project
+# API Testing w/ Rest Assured
 
-Welcome to the Awesome API Testing project! This project demonstrates the power and flexibility of RestAssured for testing APIs in Java. Whether you're a seasoned QA engineer or a developer, this project provides a comprehensive example of API testing with clear examples and organized code.
+This project demonstrates some real world examples of using Rest Assured to verify APIs
 
 ## Features
 
@@ -26,7 +26,7 @@ Welcome to the Awesome API Testing project! This project demonstrates the power 
 4.    Run the Tests:
     Execute the provided JUnit tests to see the magic happen.
 
-Usage
+## Usage
 
 ```java
 
@@ -38,7 +38,7 @@ public void assertPostCode() {
 }
 ```
 
-Contributing
+## Contributing
 
 If you find any issues or have ideas for improvements, feel free to contribute! Follow these steps:
 
