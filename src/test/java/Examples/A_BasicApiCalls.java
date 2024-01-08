@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
  * The Rest Assured library uses a BDD-style approach to writing tests.
  * We can use the given(), when() and then() methods to construct our tests.
  */
-public class BasicApiCalls {
+public class A_BasicApiCalls {
 
     /**
      * This test case will perform a GET request to the /us/90210 endpoint.

@@ -11,11 +11,10 @@ import static org.hamcrest.Matchers.equalTo;
 
 /**
  * In this class we will be using parameters in our API calls.
- *
  * We are running the test with the DataProviderRunner, so we need to annotate the class with @RunWith.
  */
 @RunWith(DataProviderRunner.class)
-public class UsingParamsInApiCalls {
+public class B_UsingParamsInApiCalls {
 
     // We are using the DataProviderRunner from the JUnit DataProvider library.
     // We then create an object array with the data we want to use in our tests.
